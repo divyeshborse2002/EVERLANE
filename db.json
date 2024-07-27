@@ -1,0 +1,536 @@
+{
+  "womens": [
+    {
+      "id": 1,
+      "title": "Women's Linen Cottage Shirt Dress",
+      "price": 12720,
+      "description": "A comfortable linen dress perfect for cottage stays and casual outings.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/4e640143_a0a2/womens-linen-cottage-shirt-dress-black",
+      "rating": {
+        "rate": 4.5,
+        "count": 150
+      }
+    },
+    {
+      "id": 2,
+      "title": "Women's Viscose Knit Pleated Dress",
+      "price": 17020,
+      "description": "An elegant pleated dress made from viscose knit, perfect for formal occasions.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/b2ab5f8e_0f24/womens-viscose-knit-pleated-dress-bone-parsnip-gingham",
+      "rating": {
+        "rate": 4.7,
+        "count": 200
+      }
+    },
+    {
+      "id": 3,
+      "title": "Women's Muscle Tee Midi Dress",
+      "price": 6700,
+      "description": "A versatile muscle tee midi dress suitable for casual and semi-formal wear.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/2ff4bfa1_1cb5/womens-muscle-tee-midi-dress-black",
+      "rating": {
+        "rate": 4.3,
+        "count": 180
+      }
+    },
+    {
+      "id": 4,
+      "title": "Women's Organic Cotton Striped Tee Dress",
+      "price": 8420,
+      "description": "A stylish striped tee dress made from organic cotton, perfect for everyday wear.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/98541850_62c5/womens-organic-cotton-striped-tee-dress-black-bone",
+      "rating": {
+        "rate": 4.6,
+        "count": 160
+      }
+    },
+    {
+      "id": 5,
+      "title": "Women's Supima Form Midi Dress",
+      "price": 8420,
+      "description": "A classic Supima® form midi dress, perfect for a polished and comfortable look.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/649e5492_4df5/womens-supima-form-midi-dress-jade-green",
+      "rating": {
+        "rate": 4.4,
+        "count": 140
+      }
+    },
+    {
+      "id": 6,
+      "title": "Women's Supima Form Racer Dress",
+      "price": 8420,
+      "description": "A sleek Supima® form racer dress, ideal for athletic and casual wear.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/f0d79c35_0b2b/womens-supima-form-racer-dress-cocoa",
+      "rating": {
+        "rate": 4.5,
+        "count": 170
+      }
+    },
+    {
+      "id": 7,
+      "title": "Women's Supima Jersey Riviera Dress",
+      "price": 8420,
+      "description": "A comfortable Supima® jersey riviera dress, perfect for summer outings.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/6bdd625c_3c8e/womens-supima-jersey-riviera-dress-sage-green",
+      "rating": {
+        "rate": 4.3,
+        "count": 130
+      }
+    },
+    {
+      "id": 8,
+      "title": "Women's Linen A-Line Midi Dress",
+      "price": 8420,
+      "description": "An elegant linen a-line midi dress, perfect for formal and semi-formal events.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/b2c190d9_5b40/womens-linen-a-line-midi-dress-black",
+      "rating": {
+        "rate": 4.6,
+        "count": 150
+      }
+    },
+    {
+      "id": 9,
+      "title": "Women's Ribbed Tank Dress",
+      "price": 8420,
+      "description": "A stylish ribbed tank dress, ideal for casual outings and relaxed settings.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/065e4b42_ddd6/womens-ribbed-tank-dress-beech",
+      "rating": {
+        "rate": 4.4,
+        "count": 120
+      }
+    },
+    {
+      "id": 10,
+      "title": "Women's Denim Workwear Shirtdress",
+      "price": 8420,
+      "description": "A durable denim workwear shirtdress, perfect for casual and work settings.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/965ea2de_acc5/womens-denim-workwear-shirtdress-bone-frayed",
+      "rating": {
+        "rate": 4.2,
+        "count": 110
+      }
+    },
+    {
+      "id": 11,
+      "title": "Women's Daytripper Shirtdress",
+      "price": 8420,
+      "description": "A chic daytripper shirtdress, perfect for casual outings and weekend trips.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/f1f63254_1ab5/womens-daytripper-shirtdress-white-black",
+      "rating": {
+        "rate": 4.3,
+        "count": 130
+      }
+    },
+    {
+      "id": 12,
+      "title": "Women's Tencel Short Sleeve Midi Dress",
+      "price": 8420,
+      "description": "A comfortable tencel short sleeve midi dress, perfect for everyday wear.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/690ad3b6_282d/womens-tencel-short-sleeve-midi-dress-carob-brown",
+      "rating": {
+        "rate": 4.5,
+        "count": 150
+      }
+    },
+    {
+      "id": 13,
+      "title": "Women's Tencel Maxi Slip Dress",
+      "price": 8420,
+      "description": "A sleek tencel maxi slip dress, perfect for formal and evening wear.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/d465fc26_d812/womens-tencel-maxi-slip-dress-black",
+      "rating": {
+        "rate": 4.6,
+        "count": 140
+      }
+    },
+    {
+      "id": 14,
+      "title": "Women's Gauze Tiered Dress",
+      "price": 8420,
+      "description": "A light and airy gauze tiered dress, perfect for summer and casual outings.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/3cd141d2_ef09/womens-gauze-tiered-dress-white",
+      "rating": {
+        "rate": 4.2,
+        "count": 110
+      }
+    },
+    {
+      "id": 15,
+      "title": "Women's Dream Tank Dress",
+      "price": 8420,
+      "description": "A versatile dream tank dress, ideal for casual and semi-formal settings.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/5bac0f01_2717/womens-dream-tank-dress-black",
+      "rating": {
+        "rate": 4.4,
+        "count": 120
+      }
+    },
+    {
+      "id": 16,
+      "title": "Women's Gauze Off Shoulder Dress",
+      "price": 8420,
+      "description": "A stylish gauze off shoulder dress, perfect for summer and casual outings.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/90f8ebbd_fc54/womens-gauze-off-shoulder-dress-white",
+      "rating": {
+        "rate": 4.5,
+        "count": 130
+      }
+    },
+    {
+      "id": 17,
+      "title": "Women's Gauze Smock Dress",
+      "price": 8420,
+      "description": "A comfortable gauze smock dress, ideal for casual and semi-formal wear.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/64ed3bd7_c30e/womens-gauze-smock-dress-black",
+      "rating": {
+        "rate": 4.3,
+        "count": 140
+      }
+    },
+    {
+      "id": 18,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/1e6946d7_a436/womens-cheeky-relaxed-straight-jean-grey",
+      "title": "The Cheeky Straight Jean",
+      "price": "₹ 10140",
+      "description": "Stormy Ash",
+      "link": "https://www.everlane.com/products/womens-cheeky-relaxed-straight-jean-grey?collection=womens-jeans",
+      "category": "Jeans"
+    },
+    {
+      "id": 19,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/b378e384_3120/womens-a-line-denim-short-bright-white",
+      "title": "The A-Line Denim Short",
+      "price": "₹ 5850",
+      "description": "Bright White",
+      "link": "https://www.everlane.com/products/womens-a-line-denim-short-bright-white?collection=womens-jeans",
+      "category": "Jeans"
+    },
+    {
+      "id": 20,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/30639dd2_9a9e/womens-way-high-curve-jean-mdind-long",
+      "title": "The Way-High® Curve Jean",
+      "price": "₹ 11000",
+      "description": "Ocean",
+      "link": "https://www.everlane.com/products/womens-way-high-curve-jean-mdind-long?collection=womens-jeans",
+      "category": "Jeans"
+    },
+    {
+      "id": 21,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/2acf6ba3_dcd2/womens-way-high-jean-long-ind",
+      "title": "The Way-High® Jean",
+      "price": "₹ 10140",
+      "description": "Vintage Indigo",
+      "link": "https://www.everlane.com/products/womens-way-high-jean-long-ind?collection=womens-jeans",
+      "category": "Jeans"
+    },
+    {
+      "id": 22,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/912d1b51_1ef4/womens-cheeky-relaxed-short-salt-lake",
+      "title": "The Cheeky Jean Short",
+      "price": "₹ 5850",
+      "description": "Salt Lake",
+      "link": "https://www.everlane.com/products/womens-cheeky-relaxed-short-salt-lake?collection=womens-jeans",
+      "category": "Jeans"
+    },
+    {
+      "id": 23,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/e5bf80ed_c4f9/womens-cropped-mariner-jean-pebble",
+      "title": "The Cropped Mariner Jean",
+      "price": "₹ 10140",
+      "description": "Shallow Beach",
+      "link": "https://www.everlane.com/products/womens-cropped-mariner-jean-pebble?collection=womens-jeans",
+      "category": "Jeans"
+    },
+    {
+      "id": 24,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/3cc628ac_f589/womens-original-cheeky-jean-ankle-light-sky",
+      "title": "The Original Cheeky® Jean",
+      "price": "₹ 8420",
+      "description": "Light Sky",
+      "link": "https://www.everlane.com/products/womens-original-cheeky-jean-ankle-light-sky?collection=womens-jeans",
+      "category": "Jeans"
+    },
+    {
+      "id": 25,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/0e81f1f8_3535/womens-carpenter-jean-medium-blue",
+      "title": "The Carpenter Jean",
+      "price": "₹ 11000",
+      "description": "Medium Blue",
+      "link": "https://www.everlane.com/products/womens-carpenter-jean-medium-blue?collection=womens-jeans",
+      "category": "Jeans"
+    },
+    {
+      "id": 26,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/883f3fd1_5160/womens-90s-cheeky-straight-jean-vintage-sbblue",
+      "title": "The ’90s Cheeky® Jean",
+      "price": "₹ 9460",
+      "description": "Vintage Sunbleached Blue",
+      "link": "https://www.everlane.com/products/womens-90s-cheeky-straight-jean-vintage-sbblue?collection=womens-jeans",
+      "category": "Jeans"
+    },
+    {
+      "id": 27,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/ab65292a_1cf8/womens-gardener-overall-bone",
+      "title": "The Gardener Overall",
+      "price": "₹ 12720",
+      "description": "Bone",
+      "link": "https://www.everlane.com/products/womens-gardener-overall-bone?collection=womens-jeans",
+      "category": "Jeans"
+    }
+  ],
+  "mens": [
+    {
+      "id": 100,
+      "title": "Men's Stretch Twill 5-Pocket Pant - Graphite",
+      "price": 68,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/eb6fe4ea_da9c/mens-stretch-twill-5-pckt-pant-graphite",
+      "category": "mens-Pants",
+      "description": "Comfortable and stylish stretch twill pants in graphite.",
+      "link": "https://www.everlane.com/products/mens-stretch-twill-5-pckt-pant-graphite?collection=mens-bottoms"
+    },
+    {
+      "id": 200,
+      "title": "Men's Easy Pant - Trench Coat Khaki",
+      "price": 78,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/30bf20ba_5176/mens-easy-pant-trench-coat-khaki",
+      "category": "mens-Pants",
+      "description": "Relaxed fit easy pants in a classic trench coat khaki color.",
+      "link": "https://www.everlane.com/products/mens-easy-pant-trench-coat-khaki?collection=mens-bottoms"
+    },
+    {
+      "id": 300,
+      "title": "Men's Performance Chino - Navy",
+      "price": 65,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/6cc145ea_86a3/mens-performance-chino-navy",
+      "category": "mens-Pants",
+      "description": "High-performance chinos in a versatile navy color.",
+      "link": "https://www.everlane.com/products/mens-performance-chino-navy?collection=mens-bottoms"
+    },
+    {
+      "id": 400,
+      "title": "Men's Linen Trouser - Black",
+      "price": 88,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/76fc1e41_7f7f/mens-linen-trouser-black",
+      "category": "mens-Pants",
+      "description": "Breathable and stylish linen trousers in classic black.",
+      "link": "https://www.everlane.com/products/mens-linen-trouser-black?collection=mens-bottoms"
+    },
+    {
+      "id": 500,
+      "title": "Men's Easy Pant - Navy",
+      "price": 75,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/7fdf3d47_6fe0/mens-easy-pant-navy",
+      "category": "mens-Pants",
+      "description": "Comfortable and versatile easy pants in a deep navy shade.",
+      "link": "https://www.everlane.com/products/mens-easy-pant-navy?collection=mens-bottoms"
+    },
+    {
+      "id": 600,
+      "title": "Men's Performance Slim Chino - Trench Coat Khaki",
+      "price": 70,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/07bd8adc_5384/mens-performance-slim-chino-trench-coat-khaki",
+      "category": "mens-Pants",
+      "description": "Slim fit chinos designed for performance, in a khaki hue.",
+      "link": "https://www.everlane.com/products/mens-performance-slim-chino-trench-coat-khaki?collection=mens-bottoms"
+    },
+    {
+      "id": 700,
+      "title": "Men's Performance Chino - Black",
+      "price": 65,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/1692a937_b760/mens-performance-chino-black",
+      "category": "mens-Pants",
+      "description": "Classic black chinos with a focus on comfort and durability.",
+      "link": "https://www.everlane.com/products/mens-performance-chino-black?collection=mens-bottoms"
+    },
+    {
+      "id": 800,
+      "title": "Men's Easy Pant - Black",
+      "price": 75,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/79edea77_76ac/mens-easy-pant-black",
+      "category": "mens-Pants",
+      "description": "Sleek and easy-to-wear black pants for everyday comfort.",
+      "link": "https://www.everlane.com/products/mens-easy-pant-black?collection=mens-bottoms"
+    },
+    {
+      "id": 900,
+      "title": "Men's Linen Trouser - Navy",
+      "price": 88,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/f941a05a_f597/mens-linen-trouser-navy",
+      "category": "mens-Pants",
+      "description": "Stylish and breathable linen trousers in a classic navy color.",
+      "link": "https://www.everlane.com/products/mens-linen-trouser-navy?collection=mens-bottoms"
+    },
+    {
+      "id": 100,
+      "title": "Men's Performance Slim Chino - Toasted Coconut",
+      "price": 70,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/0affabb5_0036/mens-performance-slim-chino-toasted-coconut",
+      "category": "mens-Pants",
+      "description": "Slim-fit chinos in a warm toasted coconut shade, perfect for any occasion.",
+      "link": "https://www.everlane.com/products/mens-performance-slim-chino-toasted-coconut?collection=mens-bottoms"
+    },
+    {
+      "id": 101,
+      "title": "The Essential Organic Crew - White",
+      "price": "280",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/cbc4c153_1dc1/mens-essential-organic-crew-uniform-white",
+      "category": "mens-Tees",
+      "description": "The Essential Organic Crew in White",
+      "href": "https://www.everlane.com/products/mens-essential-organic-crew-uniform-white?collection=mens-all-shirts-tops"
+    },
+    {
+      "id": 102,
+      "title": "The Essential Organic Crew - Black",
+      "price": "780",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/1ab3cde5_60f7/mens-essential-organic-crew-uniform-black",
+      "category": "mens-Tees",
+      "description": "The Essential Organic Crew in Black",
+      "href": "https://www.everlane.com/products/mens-essential-organic-crew-uniform-black?collection=mens-all-shirts-tops"
+    },
+    {
+      "id": 103,
+      "title": "The Essential Organic Crew - Kalamata",
+      "price": "80",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/a8d9a80b_b6b9/mens-essential-organic-crew-uniform-kalamata",
+      "category": "mens-Tees",
+      "description": "The Essential Organic Crew in Kalamata",
+      "href": "https://www.everlane.com/products/mens-essential-organic-crew-uniform-kalamata?collection=mens-all-shirts-tops"
+    },
+    {
+      "id": 104,
+      "title": "The Essential Organic Crew - Toasted Coconut",
+      "price": "580",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/db197267_66d9/mens-essential-organic-crew-uniform-toasted-coconut",
+      "category": "mens-Tees",
+      "description": "The Essential Organic Crew in Toasted Coconut",
+      "href": "https://www.everlane.com/products/mens-essential-organic-crew-uniform-toasted-coconut?collection=mens-all-shirts-tops"
+    },
+    {
+      "id": 105,
+      "title": "The Premium-Weight Crew - White",
+      "price": "870",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/32bb4625_da6c/mens-surplus-tee-white",
+      "category": "mens-Tees",
+      "description": "The Premium-Weight Crew in White",
+      "href": "https://www.everlane.com/products/mens-surplus-tee-white?collection=mens-all-shirts-tops"
+    },
+    {
+      "id": 106,
+      "title": "The Essential Organic Crew - Heathered Oat",
+      "price": "79",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/e8a69c81_11e7/mens-essential-organic-crew-uniform-heathered-oat",
+      "category": "mens-Tees",
+      "description": "The Essential Organic Crew in Heathered Oat",
+      "href": "https://www.everlane.com/products/mens-essential-organic-crew-uniform-heathered-oat?collection=mens-all-shirts-tops"
+    },
+    {
+      "id": 107,
+      "title": "The Premium-Weight Crew - Black",
+      "price": "35",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/a6606f9e_52e7/mens-surplus-tee-black",
+      "category": "mens-Tees",
+      "description": "The Premium-Weight Crew in Black",
+      "href": "https://www.everlane.com/products/mens-surplus-tee-black?collection=mens-all-shirts-tops"
+    },
+    {
+      "id": 108,
+      "title": "The Essential Organic Crew - Heathered Charcoal",
+      "price": "75",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/3e01be96_9f09/mens-essential-organic-crew-uniform-heathered-charcoal",
+      "category": "mens-Tees",
+      "description": "The Essential Organic Crew in Heathered Charcoal",
+      "href": "https://www.everlane.com/products/mens-essential-organic-crew-uniform-heathered-charcoal?collection=mens-all-shirts-tops"
+    },
+    {
+      "id": 109,
+      "title": "The Essential Organic Crew - Vintage Black",
+      "price": "69",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/291c1d02_d680/mens-essential-organic-crew-uniform-vintage-black",
+      "category": "mens-Tees",
+      "description": "The Essential Organic Crew in Vintage Black",
+      "href": "https://www.everlane.com/products/mens-essential-organic-crew-uniform-vintage-black?collection=mens-all-shirts-tops"
+    },
+    {
+      "id": 110,
+      "title": "The Essential Organic Crew - Heathered Grey",
+      "price": "99",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/822a5977_84b6/mens-essential-organic-crew-uniform-heathered-grey",
+      "category": "mens-Tees",
+      "description": "The Essential Organic Crew in Heathered Grey",
+      "href": "https://www.everlane.com/products/mens-essential-organic-crew-uniform-heathered-grey?collection=mens-all-shirts-tops"
+    }
+  ],
+  "cart": [
+    {
+      "id": 4,
+      "title": "Women's Organic Cotton Striped Tee Dress",
+      "price": 8420,
+      "description": "A stylish striped tee dress made from organic cotton, perfect for everyday wear.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/98541850_62c5/womens-organic-cotton-striped-tee-dress-black-bone",
+      "rating": {
+        "rate": 4.6,
+        "count": 160
+      }
+    },
+    {
+      "id": 2,
+      "title": "Women's Viscose Knit Pleated Dress",
+      "price": 17020,
+      "description": "An elegant pleated dress made from viscose knit, perfect for formal occasions.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/b2ab5f8e_0f24/womens-viscose-knit-pleated-dress-bone-parsnip-gingham",
+      "rating": {
+        "rate": 4.7,
+        "count": 200
+      }
+    },
+    {
+      "id": 1,
+      "title": "Women's Linen Cottage Shirt Dress",
+      "price": 12720,
+      "description": "A comfortable linen dress perfect for cottage stays and casual outings.",
+      "category": "Dresses",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/4e640143_a0a2/womens-linen-cottage-shirt-dress-black",
+      "rating": {
+        "rate": 4.5,
+        "count": 150
+      }
+    },
+    {
+      "id": 300,
+      "title": "Men's Performance Chino - Navy",
+      "price": 65,
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/6cc145ea_86a3/mens-performance-chino-navy",
+      "category": "mens-Pants",
+      "description": "High-performance chinos in a versatile navy color.",
+      "link": "https://www.everlane.com/products/mens-performance-chino-navy?collection=mens-bottoms"
+    },
+    {
+      "id": 101,
+      "title": "The Essential Organic Crew - White",
+      "price": "280",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/cbc4c153_1dc1/mens-essential-organic-crew-uniform-white",
+      "category": "mens-Tees",
+      "description": "The Essential Organic Crew in White",
+      "href": "https://www.everlane.com/products/mens-essential-organic-crew-uniform-white?collection=mens-all-shirts-tops"
+    }
+  ]
+}
