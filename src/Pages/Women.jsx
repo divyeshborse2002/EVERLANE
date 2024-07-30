@@ -6,7 +6,7 @@ import Footer from "../Components/Footer";
 
 const Women = () => {
   return (
-    <div className="main">
+    <div className="main p-0">
       <section className=" women-section">
         <div className="container-fluid ">
           <div className="main-box p-0">

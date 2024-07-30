@@ -16,7 +16,7 @@ const Womens = () => {
   const pagelimit=9;
   const fetchData = () => {
     setLoading(true);
-    axios.get("http://localhost:3000/womens", {
+    axios.get("https://backenddata-1-cuip.onrender.com/womens", {
       params: {
         category: searchParams.getAll("category"),
         _sort: "price",

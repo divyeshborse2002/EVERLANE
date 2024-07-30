@@ -11,33 +11,33 @@ const Description = () => {
 
   useEffect(() => {
     setLoading(true);
-    axios.get(`http://localhost:3000/womens/${id}`)
+    axios.get(`https://backenddata-1-cuip.onrender.com/womens/${id}`)
       .then((response) => {
         setProductdata(response.data);
         setLoading(false);
       })
       .catch((err) => {
-        alert('Wait.. Data Not Found');
+        console.log('Wait..');
         setLoading(false);
       });
   }, [id]);
 
   useEffect(() => {
     setLoading(true);
-    axios.get(`http://localhost:3000/mens/${id}`)
+    axios.get(`https://backenddata-1-cuip.onrender.com/mens/${id}`)
       .then((response) => {
         setProductdata(response.data);
         setLoading(false);
       })
       .catch((err) => {
-        alert('Wait.. Data Not Found');
+        console.log('Wait.. ');
         setLoading(false);
       });
   }, [id]);
 
 
   const handelcart =()=>{
-    axios.post("http://localhost:3000/cart", productdata)
+    axios.post("https://backenddata-1-cuip.onrender.com/cart", productdata)
     .then((res)=>setProductdata(res.data))
     .catch((err)=>alert("somthing wrong"))
   }

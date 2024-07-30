@@ -479,58 +479,16 @@
   ],
   "cart": [
     {
-      "id": 4,
-      "title": "Women's Organic Cotton Striped Tee Dress",
+      "id": 13,
+      "title": "Women's Tencel Maxi Slip Dress",
       "price": 8420,
-      "description": "A stylish striped tee dress made from organic cotton, perfect for everyday wear.",
+      "description": "A sleek tencel maxi slip dress, perfect for formal and evening wear.",
       "category": "Dresses",
-      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/98541850_62c5/womens-organic-cotton-striped-tee-dress-black-bone",
+      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/d465fc26_d812/womens-tencel-maxi-slip-dress-black",
       "rating": {
         "rate": 4.6,
-        "count": 160
+        "count": 140
       }
-    },
-    {
-      "id": 2,
-      "title": "Women's Viscose Knit Pleated Dress",
-      "price": 17020,
-      "description": "An elegant pleated dress made from viscose knit, perfect for formal occasions.",
-      "category": "Dresses",
-      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/b2ab5f8e_0f24/womens-viscose-knit-pleated-dress-bone-parsnip-gingham",
-      "rating": {
-        "rate": 4.7,
-        "count": 200
-      }
-    },
-    {
-      "id": 1,
-      "title": "Women's Linen Cottage Shirt Dress",
-      "price": 12720,
-      "description": "A comfortable linen dress perfect for cottage stays and casual outings.",
-      "category": "Dresses",
-      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/4e640143_a0a2/womens-linen-cottage-shirt-dress-black",
-      "rating": {
-        "rate": 4.5,
-        "count": 150
-      }
-    },
-    {
-      "id": 300,
-      "title": "Men's Performance Chino - Navy",
-      "price": 65,
-      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/6cc145ea_86a3/mens-performance-chino-navy",
-      "category": "mens-Pants",
-      "description": "High-performance chinos in a versatile navy color.",
-      "link": "https://www.everlane.com/products/mens-performance-chino-navy?collection=mens-bottoms"
-    },
-    {
-      "id": 101,
-      "title": "The Essential Organic Crew - White",
-      "price": "280",
-      "image": "https://media.everlane.com/images/c_fill,w_3840,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/cbc4c153_1dc1/mens-essential-organic-crew-uniform-white",
-      "category": "mens-Tees",
-      "description": "The Essential Organic Crew in White",
-      "href": "https://www.everlane.com/products/mens-essential-organic-crew-uniform-white?collection=mens-all-shirts-tops"
     }
   ]
 }

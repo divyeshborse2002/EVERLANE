@@ -18,7 +18,7 @@ const Mens = () => {
   const fetchData = () => {
     setLoading(true);
     axios
-      .get(`  http://localhost:3000/mens`,{
+      .get(` https://backenddata-1-cuip.onrender.com/mens`,{
         params : {
           category: searchParams.getAll("category"),
           _sort: "price",

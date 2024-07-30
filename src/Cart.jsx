@@ -11,7 +11,7 @@ const Cart = () => {
   useEffect(() => {
     const fetchCartItems = async () => {
       try {
-        const response = await axios.get("http://localhost:3000/cart");
+        const response = await axios.get("https://backenddata-1-cuip.onrender.com/cart");
         setCartItems(response.data.map((item) => ({ ...item, quantity: 1 })));
       } catch (err) {
         setError("Failed to load cart items. Please try again.");
@@ -25,7 +25,7 @@ const Cart = () => {
 
   const removeItem = async (id) => {
     try {
-      await axios.delete(`http://localhost:3000/cart/${id}`);
+      await axios.delete(`https://backenddata-1-cuip.onrender.com/cart/${id}`);
       setCartItems((prevItems) => prevItems.filter((item) => item.id !== id));
     } catch (err) {
       alert("Something went wrong. Please try again.");
